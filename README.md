@@ -1,5 +1,5 @@
 # Serial-Sampling-Rate-Measurement
-Sampling rate, also known as sampling frequency, is a fundamental concept in digital signal processing. It refers to the number of samples taken per second from a continuous signal to convert it into a discrete signal.
+Sampling rate, also known as sampling frequency, is a fundamental concept in digital signal processing. It refers to the number of samples taken per second from a continuous signal to convert it into a discrete signal. A faster sampling rate will provide a better representation of the original signal.
 
 # Note
 Change to your actual port
