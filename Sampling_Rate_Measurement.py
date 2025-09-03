@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Aug  7 14:53:48 2025
+Created on Thu Aug  7 14:53:48 2023
 
 @author: beckylin
 """
@@ -40,3 +40,4 @@ sampling_rate = sample_count / elapsed_time
 print(f"Total samples received: {sample_count}")
 print(f"Elapsed time: {elapsed_time:.2f} seconds")
 print(f"Sampling rate: {sampling_rate:.2f} samples/second")
+
